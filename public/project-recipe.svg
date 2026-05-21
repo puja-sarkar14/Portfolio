@@ -1,0 +1,18 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#061424"/>
+      <stop offset="1" stop-color="#17314A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="40" fill="url(#bg3)"/>
+  <ellipse cx="640" cy="480" rx="240" ry="120" fill="#102A44"/>
+  <path d="M420 410C420 360 460 330 520 330H680C740 330 780 360 780 410V520C780 570 740 600 680 600H520C460 600 420 570 420 520V410Z" fill="#1B3B62" stroke="#64FFDA" stroke-width="5"/>
+  <path d="M520 330C520 280 540 260 620 260C700 260 720 280 720 330" stroke="#64FFDA" stroke-width="8" stroke-linecap="round"/>
+  <path d="M590 320C590 280 620 260 650 320" stroke="#64FFDA" stroke-width="8" stroke-linecap="round"/>
+  <path d="M560 470H700" stroke="#64FFDA" stroke-width="10" stroke-linecap="round"/>
+  <path d="M570 520H690" stroke="#64FFDA" stroke-width="10" stroke-linecap="round"/>
+  <path d="M420 260C420 220 470 200 520 220" stroke="#64FFDA" stroke-width="10" stroke-linecap="round"/>
+  <path d="M760 320C760 290 820 270 860 300" stroke="#64FFDA" stroke-width="10" stroke-linecap="round"/>
+  <text x="240" y="670" fill="#64FFDA" font-size="48" font-family="Inter, sans-serif" font-weight="700">Recipe Finder</text>
+</svg>

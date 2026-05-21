@@ -1,0 +1,50 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081823"/>
+      <stop offset="1" stop-color="#112D4A"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#152C53"/>
+      <stop offset="1" stop-color="#0E1E34"/>
+    </linearGradient>
+    <linearGradient id="button" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFB74D"/>
+      <stop offset="1" stop-color="#FF8C00"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="36" fill="url(#bg)"/>
+  <rect x="100" y="100" width="1000" height="600" rx="32" fill="#0A1C35" stroke="#2F5E8D" stroke-width="4"/>
+  <rect x="140" y="156" width="760" height="460" rx="28" fill="url(#card)"/>
+  <rect x="940" y="156" width="120" height="460" rx="28" fill="#0E2442"/>
+  <rect x="180" y="212" width="680" height="320" rx="24" fill="#112C56"/>
+  <rect x="220" y="252" width="240" height="220" rx="20" fill="#142F5E"/>
+  <circle cx="240" cy="292" r="16" fill="#FFB74D"/>
+  <rect x="280" y="256" width="120" height="20" rx="10" fill="#FFFFFF" opacity="0.7"/>
+  <rect x="280" y="286" width="80" height="18" rx="9" fill="#FFFFFF" opacity="0.5"/>
+  <rect x="220" y="320" width="270" height="120" rx="16" fill="#0C1F38"/>
+  <rect x="260" y="342" width="190" height="18" rx="9" fill="#64FFDA"/>
+  <rect x="260" y="374" width="160" height="16" rx="8" fill="#A4F7D6" opacity="0.7"/>
+  <rect x="260" y="404" width="140" height="16" rx="8" fill="#A4F7D6" opacity="0.5"/>
+  <rect x="260" y="432" width="110" height="16" rx="8" fill="#A4F7D6" opacity="0.4"/>
+  <rect x="220" y="460" width="270" height="42" rx="20" fill="#FF8C00"/>
+  <text x="250" y="493" fill="#10161E" font-family="Inter, sans-serif" font-size="20" font-weight="700">View Recipe</text>
+  <rect x="520" y="256" width="260" height="160" rx="24" fill="#0B1F32" stroke="#64FFDA" stroke-width="2"/>
+  <circle cx="630" cy="340" r="38" fill="#FFE0B2"/>
+  <rect x="598" y="368" width="64" height="80" rx="20" fill="#FF7043"/>
+  <rect x="620" y="380" width="10" height="20" rx="5" fill="#FFFFFF"/>
+  <rect x="520" y="442" width="260" height="22" rx="11" fill="#A4F7D6" opacity="0.7"/>
+  <rect x="520" y="478" width="220" height="22" rx="11" fill="#A4F7D6" opacity="0.7"/>
+  <rect x="520" y="514" width="180" height="22" rx="11" fill="#A4F7D6" opacity="0.7"/>
+  <rect x="520" y="550" width="120" height="22" rx="11" fill="#A4F7D6" opacity="0.7"/>
+  <rect x="940" y="228" width="120" height="28" rx="14" fill="#1D3F74"/>
+  <text x="948" y="250" fill="#64FFDA" font-family="Inter, sans-serif" font-size="14" font-weight="700">Ingredients</text>
+  <rect x="960" y="268" width="80" height="16" rx="8" fill="#1A3155"/>
+  <rect x="960" y="298" width="80" height="16" rx="8" fill="#1A3155"/>
+  <rect x="960" y="328" width="80" height="16" rx="8" fill="#1A3155"/>
+  <rect x="960" y="358" width="80" height="16" rx="8" fill="#1A3155"/>
+  <rect x="960" y="388" width="80" height="16" rx="8" fill="#1A3155"/>
+  <rect x="960" y="442" width="80" height="42" rx="20" fill="url(#button)"/>
+  <text x="982" y="472" fill="#10161E" font-family="Inter, sans-serif" font-size="16" font-weight="700">Cook</text>
+  <text x="260" y="670" fill="#64FFDA" font-family="Inter, sans-serif" font-size="40" font-weight="700">Recipe Finder</text>
+</svg>

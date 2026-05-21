@@ -1,0 +1,27 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081622"/>
+      <stop offset="1" stop-color="#14274E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="40" fill="url(#bg2)"/>
+  <rect x="120" y="160" width="340" height="480" rx="32" fill="#101F3A" stroke="#26426F" stroke-width="4"/>
+  <rect x="160" y="220" width="260" height="60" rx="16" fill="#1D3563"/>
+  <rect x="160" y="310" width="260" height="50" rx="16" fill="#0C1A2F"/>
+  <rect x="160" y="390" width="260" height="50" rx="16" fill="#0C1A2F"/>
+  <rect x="160" y="470" width="260" height="50" rx="16" fill="#0C1A2F"/>
+  <rect x="160" y="550" width="260" height="50" rx="16" fill="#0C1A2F"/>
+  <path d="M760 240H980V520H760V240Z" fill="#0D213C" stroke="#3AA3FF" stroke-width="5"/>
+  <path d="M780 320H940V360H780V320Z" fill="#1F4D8E"/>
+  <path d="M780 390H940V430H780V390Z" fill="#1F4D8E"/>
+  <path d="M780 460H940V500H780V460Z" fill="#1F4D8E"/>
+  <text x="820" y="295" fill="#3AA3FF" font-size="56" font-family="Inter, sans-serif" font-weight="700">1010</text>
+  <text x="820" y="370" fill="#64FFDA" font-size="56" font-family="Inter, sans-serif" font-weight="700">3A</text>
+  <text x="820" y="445" fill="#FFD166" font-size="56" font-family="Inter, sans-serif" font-weight="700">27</text>
+  <text x="820" y="520" fill="#FF8C42" font-size="56" font-family="Inter, sans-serif" font-weight="700">FF</text>
+  <circle cx="630" cy="620" r="96" fill="rgba(100,255,218,0.15)" stroke="#64FFDA" stroke-width="4"/>
+  <path d="M600 620L660 620" stroke="#64FFDA" stroke-width="10" stroke-linecap="round"/>
+  <path d="M630 590L630 650" stroke="#64FFDA" stroke-width="10" stroke-linecap="round"/>
+  <text x="260" y="680" fill="#64FFDA" font-size="48" font-family="Inter, sans-serif" font-weight="700">Number Converter</text>
+</svg>

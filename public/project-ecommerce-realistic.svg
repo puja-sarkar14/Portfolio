@@ -1,0 +1,57 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C1528"/>
+      <stop offset="1" stop-color="#101F37"/>
+    </linearGradient>
+    <linearGradient id="window" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#111D3A"/>
+      <stop offset="1" stop-color="#0B1323"/>
+    </linearGradient>
+    <linearGradient id="button" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#63FFDA"/>
+      <stop offset="1" stop-color="#35B293"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="36" fill="url(#bg)"/>
+  <rect x="96" y="96" width="1008" height="608" rx="28" fill="url(#window)" stroke="#2D496D" stroke-width="3"/>
+  <rect x="120" y="132" width="960" height="48" rx="14" fill="#172C53"/>
+  <circle cx="172" cy="156" r="8" fill="#FF5F57"/>
+  <circle cx="204" cy="156" r="8" fill="#FFBD2E"/>
+  <circle cx="236" cy="156" r="8" fill="#27C93F"/>
+  <rect x="120" y="220" width="660" height="420" rx="24" fill="#142A4F"/>
+  <rect x="800" y="220" width="220" height="420" rx="24" fill="#101F3E"/>
+  <rect x="148" y="252" width="220" height="160" rx="20" fill="#1E3C64"/>
+  <rect x="148" y="440" width="220" height="100" rx="18" fill="#182B4F"/>
+  <rect x="430" y="252" width="220" height="160" rx="20" fill="#1E3C64"/>
+  <rect x="430" y="440" width="220" height="100" rx="18" fill="#182B4F"/>
+  <rect x="712" y="252" width="220" height="160" rx="20" fill="#1E3C64"/>
+  <rect x="712" y="440" width="220" height="100" rx="18" fill="#182B4F"/>
+  <rect x="148" y="292" width="160" height="16" rx="8" fill="#64FFDA" opacity="0.8"/>
+  <rect x="148" y="318" width="180" height="14" rx="7" fill="#7ABEF1" opacity="0.8"/>
+  <rect x="430" y="292" width="140" height="16" rx="8" fill="#64FFDA" opacity="0.8"/>
+  <rect x="430" y="318" width="160" height="14" rx="7" fill="#7ABEF1" opacity="0.8"/>
+  <rect x="712" y="292" width="160" height="16" rx="8" fill="#64FFDA" opacity="0.8"/>
+  <rect x="712" y="318" width="180" height="14" rx="7" fill="#7ABEF1" opacity="0.8"/>
+  <rect x="210" y="496" width="120" height="24" rx="12" fill="#64FFDA"/>
+  <rect x="492" y="496" width="100" height="24" rx="12" fill="#64FFDA"/>
+  <rect x="774" y="496" width="140" height="24" rx="12" fill="#64FFDA"/>
+  <rect x="148" y="560" width="180" height="16" rx="8" fill="#FFFFFF" opacity="0.2"/>
+  <rect x="148" y="588" width="140" height="16" rx="8" fill="#FFFFFF" opacity="0.15"/>
+  <rect x="430" y="560" width="180" height="16" rx="8" fill="#FFFFFF" opacity="0.2"/>
+  <rect x="430" y="588" width="140" height="16" rx="8" fill="#FFFFFF" opacity="0.15"/>
+  <rect x="712" y="560" width="180" height="16" rx="8" fill="#FFFFFF" opacity="0.2"/>
+  <rect x="712" y="588" width="140" height="16" rx="8" fill="#FFFFFF" opacity="0.15"/>
+  <rect x="840" y="252" width="120" height="38" rx="18" fill="#0F2F4E"/>
+  <rect x="840" y="304" width="140" height="28" rx="14" fill="#1E456F"/>
+  <rect x="840" y="348" width="100" height="28" rx="14" fill="#1E456F"/>
+  <rect x="840" y="402" width="180" height="28" rx="14" fill="#1E456F"/>
+  <rect x="840" y="456" width="180" height="28" rx="14" fill="#1E456F"/>
+  <rect x="840" y="520" width="180" height="32" rx="16" fill="url(#button)"/>
+  <text x="870" y="542" fill="#07171F" font-family="Inter, sans-serif" font-size="16" font-weight="700">Checkout</text>
+  <rect x="840" y="584" width="180" height="32" rx="16" fill="#172C53"/>
+  <text x="852" y="606" fill="#7ABEF1" font-family="Inter, sans-serif" font-size="14">Total</text>
+  <text x="852" y="640" fill="#64FFDA" font-family="Inter, sans-serif" font-size="28" font-weight="700">$129.99</text>
+  <rect x="240" y="160" width="520" height="52" rx="22" fill="#0F2A4D"/>
+  <text x="280" y="195" fill="#64FFDA" font-family="Inter, sans-serif" font-size="20" font-weight="700">Live Shop UI</text>
+</svg>
