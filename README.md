@@ -72,4 +72,4 @@ https://github.com/puja-sarkar14/Portfolio
 Add your deployed Vercel link here.
 
 Example:
-https://portfolio.vercel.app
+https://portfolio-puja-sarkars-projects.vercel.app
